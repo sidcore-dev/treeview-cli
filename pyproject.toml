@@ -18,6 +18,11 @@ classifiers = [
     "Topic :: Utilities",
 ]
 
+[project.urls]
+Homepage = "https://github.com/sidcore-dev/treeview-cli"
+Repository = "https://github.com/sidcore-dev/treeview-cli"
+Issues = "https://github.com/sidcore-dev/treeview-cli/issues"
+
 [project.scripts]
 treeview-cli = "treeview_cli.cli:main"
 
