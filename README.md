@@ -5,6 +5,8 @@ like `tree` — but automatically respects `.gitignore` patterns found in
 the directory you're viewing, so build artifacts and dependencies don't
 clutter the output.
 
+![demo](demo.gif)
+
 ## Why
 
 Running `tree` on a real project usually means staring at `node_modules`,
